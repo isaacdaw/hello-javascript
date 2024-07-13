@@ -13,7 +13,7 @@ en varias líneas
 */
 
 console.log("¡Hola, JavaScript!")
-console.log('¡Hola, JavaScript2!')
+console.log('¡Hola, JavaScript!')
 console.log(`¡Hola, JavaScript!`)
 
 // console.log("¡Hola, JavaScript!")
